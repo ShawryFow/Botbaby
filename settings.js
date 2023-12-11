@@ -5,14 +5,14 @@ const chalk = require('chalk')
 const { en, es } = require('./libs/idiomas/total-idiomas.js') 
 
 //---------[ PROPIETADO/OWNER ]---------
-global.owner = [["5492266466080", "Owner", true], ["573026191480", "asistencia", true], ["593968585383"], ["5492266466080"], ["595985451858"], ["5492266613038"], ["5217294888993"],["5214437863111"]]
+global.owner = [["528123422244", "Owner", true], ["573026191480", "asistencia", true], ["593968585383"], ["5492266466080"], ["595985451858"], ["5492266613038"], ["5217294888993"],["5214437863111"]]
 global.mods = []
 global.premium = []  
 global.blockList = []  
 
 //---------[ NOMBRE/INFO ]---------
-global.botname = "𝐍𝐨𝐯𝐚𝐁𝐨𝐭-𝐌𝐃"
-global.wm = 'Ｎ Ｏ Ｖ Ａ Ｂ Ｏ Ｔ- Ｍ Ｄ 💫'
+global.botname = "𝑩𝑶𝑻 𝑩𝑨𝑩𝒀-𝐌𝐃"
+global.wm = 'B A B Y Ｂ Ｏ Ｔ- Ｍ Ｄ 💫'
 global.vs = '1.0.5 (navideñas 🎅)'
 
 //---------[ FECHA/IDIOMAS ]---------
@@ -64,7 +64,7 @@ global.APIKeys = {
 };
  
 //---------[ STICKERS ]---------
-global.packname = "𝐍𝐨𝐯𝐚𝐁𝐨𝐭-𝐌𝐃"
+global.packname = "𝑩𝑶𝑻 𝑩𝑨𝑩𝒀-𝐌𝐃"
 global.author = `${vs}`
  
 //---------[ IMAGEN ]---------
